@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ....
 -->
+
+🌐 Socials:
+
+
+💻 Tech Stack:
+C# C C++ JavaScript PHP ReScript Python Rust Java HTML5 Ruby GithubPages Vercel Anaconda Angular Angular.js Bootstrap TailwindCSS Jenkins Apache Airflow AmazonDynamoDB MicrosoftSQLServer SQLite Adobe Adobe Acrobat Reader Canva Figma Adobe InDesign
+
+📊 GitHub Stats:
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+
+
+💰 You can help me by Donating
+[BuyMeACoffee](https://buymeacoffee.com/Follow me silk_boss_46)
